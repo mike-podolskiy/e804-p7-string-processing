@@ -1,5 +1,5 @@
 //CHECKSTYLE:OFF
-package kz.mix.e804.stringProcessing;
+package kz.mix.e804.stringProcessing.indexof;
 
 // This example demonstrates how to search multiple occurences of a search string
 public class SearchString3 {

@@ -1,5 +1,5 @@
 //CHECKSTYLE:OFF
-package kz.mix.e804.stringProcessing;
+package kz.mix.e804.stringProcessing.indexof;
 
 // Demonstrates searching a character in a string
 public class SearchString1 {
