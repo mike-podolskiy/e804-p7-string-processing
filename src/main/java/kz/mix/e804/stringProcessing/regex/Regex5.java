@@ -4,6 +4,7 @@ package kz.mix.e804.stringProcessing.regex;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+// This program demonstrates how we can search email addresses
 public class Regex5 {
     public static void main(String[] args) {
         String str =
